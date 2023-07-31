@@ -2,12 +2,12 @@
 
 A simple python script that sends you articles based on the percentage the stock goes up and down. It uses 
 a Twilio virtual number, and https://www.alphavantage.co/query and https://newsapi.org/v2/everything APIs,
-but can be modified to use other APIs. It uses twilio.rest and requests libraries, and python's built in os
-library.
+but can be modified to use other APIs. It uses twilio and requests libraries, and 
+python's built in os library.
 
 Documentation:
 
-twilio.rest:
+twilio:
 https://www.twilio.com/docs/sms/quickstart/python
 
 requests:
